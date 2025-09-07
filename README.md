@@ -10,7 +10,7 @@ AI Neutrophil Tracking Research Published In Vanderbuilt Reserach Journal.
 ---
 
 ## 🎥 Demo Video
-- [https://youtu.be/LlLzVETZ_pQ]((https://youtu.be/LlLzVETZ_pQ))  
+- [https://youtu.be/LlLzVETZ_pQ](https://youtu.be/LlLzVETZ_pQ)
 
 ---
 
